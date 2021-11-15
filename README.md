@@ -1,4 +1,4 @@
-# kafkademo
+# kafka-demo
 a node js repo to demo basic kafka consumer producer
 
 ## How to build this project
