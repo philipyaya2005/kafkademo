@@ -27,3 +27,7 @@ node consumer.js
 // if first letter < n|N it will go to partition 0 otherwise partition 1
 node publisher.js <your message> 
 ```
+
+![kafka_consumer_group](https://user-images.githubusercontent.com/11352799/141712673-dae9a996-2e32-4806-a3b0-434d7ed4cd93.JPG)
+
+![kafka_distributed_system](https://user-images.githubusercontent.com/11352799/141712681-6ce9fb2c-fdc0-422f-b0b6-e35cdea89bd6.JPG)
